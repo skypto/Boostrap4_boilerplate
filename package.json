@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "Experimenting with bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypto/bootstrap4.git"
+  },
+  "author": "kesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skypto/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/skypto/bootstrap4#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
