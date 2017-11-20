@@ -17,7 +17,7 @@ After building your website , all you have to do is to copy and upload the `src`
 
 # SAMPLE INSTALLATION WORKFLOW
 * `git clone <repository_name>` -run from local cli in the working directory
-* `git install` - to intall all dependencies from package.json file
+* `npm install` - to intall all dependencies from package.json file
 * `npm start` - this will start gulp and lunch a live browser to display your webpage in real time.
 
 All development will be compiled into the `src` folder.
